@@ -1,1 +1,1 @@
-console.log("Axor 2544");
+console.log(dados);
