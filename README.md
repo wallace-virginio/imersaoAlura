@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto Alura - Valorant</title>
-</head>
-<body>
-
 <h1>Valorant: 5x5 Tático</h1>
 
 <h2>Descrição</h2>
@@ -54,7 +45,7 @@
 <ul>
     <li><strong>Nome:</strong> Wallace Virginio👨🏾‍🦱</li>
     <li><strong>E-mail:</strong> wallacevirginio.10@gmail.com✉️</li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/seuperfil" target="_blank"🔗>linkedin.com/in/wallace-virginio</a></li>
+    <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/wallace-virginio/" target="_blank"🔗>linkedin.com/in/wallace-virginio</a></li>
 </ul>
 
 </body>
