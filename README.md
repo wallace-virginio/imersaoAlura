@@ -26,9 +26,9 @@
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
-    <li><strong>HTML:</strong> Estruturação do conteúdo e definição da semântica da página.</li>
-    <li><strong>CSS:</strong> Estilização e layout da página.</li>
-    <li><strong>JavaScript:</strong> Manipulação de DOM e criação de interações dinâmicas.</li>
+    <li><strong>HTML:</strong> Estruturação do conteúdo e definição da semântica da página. 🌐</li>
+    <li><strong>CSS:</strong> Estilização e layout da página.🎨</li>
+    <li><strong>JavaScript:</strong> Criação de interações dinâmicas.</li>
     <li><strong>Google Gemini:</strong> Aplicação de técnicas recomendadas para melhorar a usabilidade e a performance do site.</li>
 </ul>
 
@@ -52,9 +52,9 @@
 <h2>Contato</h2>
 <p>Para quaisquer dúvidas ou feedbacks, entre em contato comigo:</p>
 <ul>
-    <li><strong>Nome:</strong> Wallace Virginio</li>
-    <li><strong>E-mail:</strong> wallacevirginio.10@gmail.com</li>
-    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/seuperfil" target="_blank">linkedin.com/in/wallace-virginio</a></li>
+    <li><strong>Nome:</strong> Wallace Virginio👨🏾‍🦱</li>
+    <li><strong>E-mail:</strong> wallacevirginio.10@gmail.com✉️</li>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/seuperfil" target="_blank"🔗>linkedin.com/in/wallace-virginio</a></li>
 </ul>
 
 </body>
