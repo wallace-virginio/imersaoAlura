@@ -3,7 +3,7 @@
 <h2>Descrição</h2>
 <p>
     Este projeto é uma demonstração prática de habilidades em desenvolvimento web, criado como parte de um curso da 
-    <a href="https://www.alura.com.br" target="_blank">Alura</a>. Ele utiliza HTML, CSS e JavaScript para construir uma interface de usuário interativa e responsiva. 
+    <a href="https://www.alura.com.br" target="_blank">Alura</a>. Ele utiliza HTML, CSS e JavaScript para construir uma interface de usuário interativa. 
     O projeto também incorpora conceitos e técnicas recomendados pelo 
     <a href="https://www.google.com/search/about/" target="_blank">Google Gemini</a>, visando uma experiência de usuário otimizada e acessível.
 </p>
