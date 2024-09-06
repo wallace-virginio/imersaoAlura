@@ -1,28 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" />
     <title>Valorant</title>
   </head>
-  <body background="images/iso.jpg">
+
+  <body>
+    <video autoplay muted loop>
+      <source src="videos/Valorant/Valorant.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
     <header>
-        <h1>Valorant: 5x5 Tático</h1>
+      <h1>Valorant: 5x5 Tático</h1>
     </header>
     <main>
-        <section>
-        <input type="text" placeholder="Digite o nome do agente"></input>
-        <button>Pesquisar</button>
-    </section>
-    
+      <section>
+        <input
+          type="text"
+          id="input-pesquisa"
+          placeholder="Digite o nome do agente"
+        />
+        <button onclick="pesquisar()">Pesquisar</button>
+      </section>
+      <section class="resultados-pesquisa" id="resultados-pesquisa"></section>
     </main>
-    <footer>
-        <p>2024 - Agentes do Valorant. Todos os direitos reservados.</p>
-        <p>Entre em cotato pelo email: wallace@valorant.com.br</p>
-    </footer>
-    <script src="dados.js"></script>
-    <script src="app.js"></script>
+
+    <script src="./js/dados.js"></script>
+    <script src="./js/app.js"></script>
   </body>
 </html>
