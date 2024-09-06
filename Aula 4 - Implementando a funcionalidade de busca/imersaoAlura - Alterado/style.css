@@ -15,16 +15,20 @@ body {
 }
 
 video {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  width: auto;
-  height: auto;
-  z-index: -1;
-  object-fit: cover;
-  transform: translate(-50%, -50%);
+  /* Define o posicionamento do elemento como fixo em relação à viewport. */
+  position: fixed; /* Isso significa que o vídeo permanecerá no mesmo lugar, mesmo ao rolar a página. */
+  top: 70%; /* Posiciona o vídeo a 20% da altura da viewport, a partir do topo. */
+  left: 50%; /* Centraliza horizontalmente o vídeo na viewport. */
+  min-width: 100%; /* Garante que o vídeo ocupe toda a largura da viewport, mesmo que seja menor. */
+  min-height: 100%; /* Garante que o vídeo ocupe toda a altura da viewport, mesmo que seja menor. */
+  width: auto; /* Permite que o navegador ajuste automaticamente a largura e a altura do vídeo, */
+  height: auto; /*mantendo as proporções originais. */
+  z-index: -1; /* Define o nível de empilhamento do elemento, colocando o vídeo atrás de outros elementos. */
+  object-fit: cover; /* Escala o vídeo para preencher toda a área, mantendo as proporções e possivelmente cortando partes das bordas. */
+  transform: translate(
+    -50%,
+    -50%
+  ); /* Centraliza o vídeo horizontal e verticalmente, ajustando sua posição inicial. */
 }
 
 /* Estiliza os títulos h1 */
@@ -124,6 +128,7 @@ footer {
   position: absolute; /* Posiciona o rodapé */
   bottom: 0; /* Alinha ao fundo da página */
   font-size: 1rem; /* Tamanho da fonte */
+  opacity: 10%;
 }
 
 @media (max-width: 768px) {
