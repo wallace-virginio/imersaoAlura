@@ -15,20 +15,13 @@ body {
 }
 
 video {
-  /* Define o posicionamento do elemento como fixo em relação à viewport. */
-  position: fixed; /* Isso significa que o vídeo permanecerá no mesmo lugar, mesmo ao rolar a página. */
-  top: 70%; /* Posiciona o vídeo a 20% da altura da viewport, a partir do topo. */
-  left: 50%; /* Centraliza horizontalmente o vídeo na viewport. */
-  min-width: 100%; /* Garante que o vídeo ocupe toda a largura da viewport, mesmo que seja menor. */
-  min-height: 100%; /* Garante que o vídeo ocupe toda a altura da viewport, mesmo que seja menor. */
-  width: auto; /* Permite que o navegador ajuste automaticamente a largura e a altura do vídeo, */
-  height: auto; /*mantendo as proporções originais. */
-  z-index: -1; /* Define o nível de empilhamento do elemento, colocando o vídeo atrás de outros elementos. */
-  object-fit: cover; /* Escala o vídeo para preencher toda a área, mantendo as proporções e possivelmente cortando partes das bordas. */
-  transform: translate(
-    -50%,
-    -50%
-  ); /* Centraliza o vídeo horizontal e verticalmente, ajustando sua posição inicial. */
+  position: fixed;    /* Define a posição do elemento como fixa em relação à viewport */
+  top: 0;             /* Posiciona o elemento no topo da viewport */
+  left: 0;            /* Posiciona o elemento à esquerda da viewport */
+  width: 100%;        /* Define a largura do elemento como 100% da viewport */
+  height: 100%;       /* Define a altura do elemento como 100% da viewport */
+  object-fit: cover;  /* Ajusta o conteúdo do elemento para cobrir completamente, mantendo a proporção */
+  z-index: -1;        /* Define a camada do elemento abaixo dos outros elementos */
 }
 
 /* Estiliza os títulos h1 */
