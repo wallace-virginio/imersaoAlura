@@ -18,7 +18,24 @@ function pesquisar() {
     sova: 'sova.html',
     viper: 'viper.html',
     sage: 'sage.html',
-    brimstone: 'brimstone.html'
+    brimstone: 'brimstone.html',
+    astra: 'astra.html',
+    breach: 'breach.html',
+    brimstone: 'brimstone.html',
+    clove: 'clove.html',
+    cypher: 'cypher.html',
+    deadlock: 'deadlock.html',
+    fade: 'fade.html',
+    harbor: 'harbor.html',
+    kayo: 'kayo.html',
+    killjoy: 'killjoy.html',
+    phoenix: 'phoenix.html',
+    raze: 'raze.html',
+    sage: 'sage.html',
+    skye: 'skye.html',
+    sova: 'sova.html',
+    viper: 'viper.html',
+    vyse: 'vyse.html'
     // Adicione mais termos e páginas conforme necessário
   };
 
