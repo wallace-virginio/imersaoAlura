@@ -38,6 +38,8 @@
     <li>Scripts JavaScript que gerenciam eventos e mudanças de estado.</li>
 </ul>
 
+<h2>Caso queira visualizar melhor</h2>
+<a href="https://wallace-virginio.github.io/imersaoAlura/" target="_blank">Projeto hospedado no Github 🔗</a>
 
 
 <h2>Contato</h2>
