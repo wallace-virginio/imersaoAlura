@@ -40,6 +40,34 @@
 
 <h2>Caso queira visualizar melhor</h2>
 <a href="https://wallace-virginio.github.io/imersaoAlura/" target="_blank">Projeto hospedado no Github 🔗</a>
+<p>Aqui estão os agentes do Valorant para testarem</p>
+<ul>
+    <li><strong>Brimstone:</strong> 🔥</li>
+    <li><strong>Phoenix:</strong> 🐦</li>
+    <li><strong>Sage:</strong> 💉</li>
+    <li><strong>Sova:</strong> 🏹</li>
+    <li><strong>Viper:</strong> ☠️</li>
+    <li><strong>Cypher:</strong> 🕵️</li>
+    <li><strong>Reyna:</strong> 👁️</li>
+    <li><strong>Killjoy:</strong> 🛡️</li>
+    <li><strong>Breach:</strong> 💥</li>
+    <li><strong>Omen:</strong> 🌑</li>
+    <li><strong>Jett:</strong> 💨</li>
+    <li><strong>Raze:</strong> 💣</li>
+    <li><strong>Skye:</strong> 🦘</li>
+    <li><strong>Yoru:</strong> 😈</li>
+    <li><strong>Astra:</strong> 🌌</li>
+    <li><strong>KAY/O:</strong> 🤖</li>
+    <li><strong>Chamber:</strong> 🎯</li>
+    <li><strong>Neon:</strong> ⚡</li>
+    <li><strong>Fade:</strong> 💤</li>
+    <li><strong>Harbor:</strong> 🌊</li>
+    <li><strong>Gekko:</strong> 🦎</li>
+    <li><strong>Deadlock:</strong> 🕸️</li>
+    <li><strong>Iso:</strong> 🎱</li>
+    <li><strong>Clove:</strong> 🍀</li>
+</ul>
+
 
 
 <h2>Contato</h2>
